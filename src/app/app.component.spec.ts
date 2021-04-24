@@ -23,7 +23,6 @@ describe('AppComponent', () => {
   it(`should have as title 'conexionesHTTP'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('conexionesHTTP');
   });
 
   it('should render title', () => {

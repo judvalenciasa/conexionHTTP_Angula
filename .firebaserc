@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "nuevoproyecto-8b36e": {
+      "hosting": {
+        "conexionesHTTP": [
+          "nuevoproyecto-8b36e"
+        ]
+      }
+    }
+  }
+}
